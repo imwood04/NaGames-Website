@@ -94,3 +94,10 @@ body{
   text-align: center; /* Center text*/
   background: #ddd; /* Grey background */
 }
+
+.vidPromote {
+	text-align: center;
+	font-size: 20px;
+	color: white; 
+}
+
