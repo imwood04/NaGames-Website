@@ -101,7 +101,8 @@ body{
 	color: white; 
 }
 
-.darrow {
-	margin: 0 auto;
-	text-align: center;
+img.darrow {
+	width: 120px;
+	height: auto;
+	text-align: center
 }
