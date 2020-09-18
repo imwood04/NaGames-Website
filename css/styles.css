@@ -9,8 +9,8 @@ body{
 .text{
 	color: black;
 	text-align: center;
-	font-size: 10vw;
-	padding: 60px;
+	font-size: 10px;
+	padding: 1px;
 	font-size: 60px;
 	background-color: lightgray;
 
@@ -40,7 +40,7 @@ body{
 .obj{
 	width: 6px;
 	height: 40px;
-	background: white;
+	background: red;
 	margin: 0 3px;
 	border-radius: 10px;
 	animation: loading 0.8s infinite;
