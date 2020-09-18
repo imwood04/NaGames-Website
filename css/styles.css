@@ -7,11 +7,12 @@ body{
 	animation: bganimation 15s infinite;
 }
 .text{
-	color: white;
+	color: black;
 	text-align: center;
 	font-size: 22px;
-	padding: 80px;
+	padding: 60px;
 	font-size: 60px;
+	background-color: lightgray;
 
 }
 
@@ -90,7 +91,7 @@ body{
 }
 
 .footer {
-  padding: 5px; /* Some padding */
+  padding: 2px; /* Some padding */
   text-align: center; /* Center text*/
   background: #ddd; /* Grey background */
 }
