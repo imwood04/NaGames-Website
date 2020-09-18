@@ -12,6 +12,10 @@ body{
 	font-size: 22px;
 }
 
+.text-center{
+	size: 50[x 50px;
+}
+
 @keyframes bganimation {
 	0%{
 		background-position: 0% 50%;
