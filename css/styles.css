@@ -102,7 +102,6 @@ body{
 }
 
 .darrow {
+	margin: 0 auto;
 	text-align: center;
-	width: 100px;
-	height: 100px;
 }
