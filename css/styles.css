@@ -11,7 +11,7 @@ body{
 	text-align: center;
 	font-size: 22px;
 	padding: 80px;
-	
+
 }
 
 .loading {
@@ -86,4 +86,10 @@ body{
 		background-position: 0% 50%;
 	}
 
+}
+
+.footer {
+  padding: 20px; /* Some padding */
+  text-align: center; /* Center text*/
+  background: #ddd; /* Grey background */
 }
