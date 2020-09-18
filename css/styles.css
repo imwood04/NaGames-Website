@@ -12,6 +12,36 @@ body{
 	font-size: 22px;
 }
 
+.loading{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	height: 40px;
+	display: flex;
+	align-items: center;
+}
+
+.obj{
+	width: 6px;
+	height: 40px;
+	background: white;
+	margin: 0 3px;
+	border-radius: 10px;
+	animation: loading 0.8s infinite;
+}
+@keyframes loading {
+	0%{
+		height: 0;
+	}
+	50%{
+		height: 40px;
+	}
+	100%{
+		height: 0;
+	}
+}
+
 @keyframes bganimation {
 	0%{
 		background-position: 0% 50%;
@@ -21,38 +51,4 @@ body{
 		background-position: 0% 50%;
 	}
 
-}
-
-/* Container needed to position the button. Adjust the width as needed */
-.container {
-  position: relative;
-  width: 5%;
-  height: 5%;
-}
-
-/* Make the image responsive */
-.container img {
-  width: 100%;
-  height: auto;
-  border: none;
-  border-radius: 5px;
-}
-
-/* Style the button and place it in the middle of the container/image */
-.container .btn {
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  background-color: #555;
-  color: white;
-  font-size: 16px;
-  padding: 12px 24px;
-  border: none;
-  cursor: pointer;
-}
-
-.container .btn:hover {
-  background-color: black;
 }
