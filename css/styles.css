@@ -34,6 +34,8 @@ body{
 .container img {
   width: 100%;
   height: auto;
+  border: none;
+  border-radius: 5px;
 }
 
 /* Style the button and place it in the middle of the container/image */
@@ -49,7 +51,6 @@ body{
   padding: 12px 24px;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
 }
 
 .container .btn:hover {
