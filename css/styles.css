@@ -91,9 +91,13 @@ body{
 }
 
 .footer {
-  padding: 2px; /* Some padding */
-  text-align: center; /* Center text*/
-  background: #ddd; /* Grey background */
+   position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightgray;
+  color: black;
+  text-align: center;
 }
 
 .vidPromote {
