@@ -45,6 +45,7 @@ img.darrow {
   margin: 0;
   padding: 0;
   font-family: "montserrat",sans-serif;
+  box-sizing: border-box;
 }
 .header{
   height: 100px;
@@ -136,6 +137,43 @@ img.darrow {
 }
 
 .discwid {
+  position: relative;
+  left: 0px;
+  top: -10px;
   width: 100%;
   height:4vw;
+}
+
+.twit {
+  position: relative;
+  top: -10px;
+}
+
+.disc {
+  position: relative;
+  right: -10px;
+  top: 5px;
+}
+
+.sidebar {
+  position: relative;
+  top: 40px;
+  left: -200px;
+  float: right;
+  height: 300px;
+  width: 500px;
+  color: black;
+  font-size: 20px;
+}
+
+.footer {
+  height: 40px;
+  background-color: ;    /* Light blue */
+}
+
+.page {
+  width: 1250px;
+  height: 600px;
+  margin: 0 auto;
+  overflow: hidden;
 }
