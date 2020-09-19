@@ -1,21 +1,8 @@
 body{
-	margin: 0;
-	padding: 0;
-	font-family: "montserrant";
-	background-image: linear-gradient(125deg,#4f4f4f,#72A0C1,#C9FFE5,#4d29ff,#696969,#FF7E00,#0048BA);
-	background-size: 400%;
-	animation: bganimation 15s infinite;
-}
-
-@keyframes bganimation {
-	0%{
-		background-position: 0% 50%;
-	}50%{
-		background-position: 100% 50%;
-	}100%{
-		background-position: 0% 50%;
-	}
-
+	background-image: url("https://media.discordapp.net/attachments/680689357661012019/756771789354303538/background.jpg?width=760&height=475");
+  background-color: #cccccc;
+  background-size: cover;
+  backdrop-filter: blur(5px);
 }
 
 .footer {
