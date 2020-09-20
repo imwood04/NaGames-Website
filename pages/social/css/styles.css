@@ -1,8 +1,7 @@
 body{
 background-image: url("https://media.discordapp.net/attachments/680689357661012019/756771789354303538/background.jpg?width=760&height=475");
 background-color: #cccccc;
-background-size: cover;
-backdrop-filter: blur(5px);
+background-size: 110%;
 }
 .footer {
 left: 0;
@@ -51,11 +50,11 @@ color: #fff;
 line-height: 100px;
 float: left;
 text-transform: uppercase;
-font-size: 5vh;
+font-size: 4vh;
 }
 .menu{
 float: right;
-line-height: 100px;
+line-height: 85px;
 }
 .menu a{
 color: #fff;
