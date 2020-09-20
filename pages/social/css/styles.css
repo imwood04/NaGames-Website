@@ -134,15 +134,6 @@ position: relative;
 right: -10px;
 top: 5px;
 }
-.sidebar {
-position: relative;
-top: 40px;
-left: 5vh;
-float: right;
-height: 300px;
-width: 500px;
-color: black;
-font-size: 30px;
 }
 .footer {
 height: 40px;
