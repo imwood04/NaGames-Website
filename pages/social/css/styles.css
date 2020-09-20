@@ -1,5 +1,5 @@
 body{
-background-image: url("https://media.discordapp.net/attachments/680689357661012019/756771789354303538/background.jpg?width=760&height=475");
+background-image: url("https://media.discordapp.net/attachments/680689357661012019/756771789354303538/background.jpg?width=760&height=760");
 background-color: #cccccc;
 background-size: 110%;
 }
@@ -50,7 +50,7 @@ color: #fff;
 line-height: 100px;
 float: left;
 text-transform: uppercase;
-font-size: 4vh;
+font-size: 5vh;
 }
 .menu{
 float: right;
