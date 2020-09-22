@@ -1,3 +1,4 @@
+/*Changes Background for Devices under 600px (Mainly Mobile)*/
 @media only screen and (max-width: 600px) {
 body{
 background-image: url("https://media.discordapp.net/attachments/680689357661012019/756771789354303538/background.jpg?width=760&height=760");
@@ -5,6 +6,7 @@ background-color: #cccccc;
 object-fit: cover;
 }
 }
+/*Changed Background for Devices over 600px Tablets/Laptops/Computer Ect.*/
 @media only screen and (min-width: 600px) {
 body{
 background-image: url("https://media.discordapp.net/attachments/680689357661012019/756771789354303538/background.jpg?width=760&height=760");
@@ -105,6 +107,7 @@ margin: 20px 0;
 .content p{
 text-align: justify;
 }
+/*Detects If pixels go under 800 if so brings up menu button*/
 @media screen and (max-width:800px) {
 .show-menu-btn,.hide-menu-btn{
 display: block;
