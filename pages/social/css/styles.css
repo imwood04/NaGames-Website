@@ -73,6 +73,7 @@ text-transform: uppercase;
 text-decoration: none;
 padding: 0 10px;
 transition: 0.4s;
+z-index: 99;
 }
 .show-menu-btn,.hide-menu-btn{
 transition: 0.4s;
@@ -123,10 +124,12 @@ text-align: center;
 padding: 80px 0;
 line-height: normal;
 transition: 0.7s;
+z-index: 98;
 }
 .menu a{
 display: block;
 padding: 5vh;
+z-index: 98;
 }
 .hide-menu-btn{
 position: absolute;
@@ -154,4 +157,13 @@ width: 100%;
 height: 100px;
 margin: 0 auto;
 overflow: hidden;
+}
+.yt {
+	position: relative;
+	z-index: 97
+}
+.twit {
+	position: relative;
+	top: -10px;
+	z-index: 97;
 }
