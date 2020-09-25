@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb1ee305-6b29-467e-9615-bdd34bcc151f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/aboutUs/aboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/aboutUs/aboutUs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/social/social.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/social/social.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601038129448</updated>
-      <workItem from="1601038132611" duration="1383000" />
+      <workItem from="1601038132611" duration="1767000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1601038292586</created>
@@ -58,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601038923642</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Redid depicted code">
+      <created>1601039688442</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601039688442</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,21 +72,22 @@
     <MESSAGE value="Update" />
     <MESSAGE value="Code iG" />
     <MESSAGE value="Code Again" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code Again" />
+    <MESSAGE value="Redid depicted code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redid depicted code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="42" key="#Inspections" timestamp="1601039351426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1601039351426" />
-    <state x="301" y="0" key="CommitChangelistDialog2" timestamp="1601038922449">
+    <state x="301" y="0" key="CommitChangelistDialog2" timestamp="1601039686834">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="301" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601038922449" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1601038927382">
+    <state x="301" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601039686834" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1601039708345">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601038927382" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601039708345" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601038424952">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
