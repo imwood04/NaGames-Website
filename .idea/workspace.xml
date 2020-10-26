@@ -41,6 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,7 +52,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601038129448</updated>
-      <workItem from="1601038132611" duration="2683000" />
+      <workItem from="1601038132611" duration="3077000" />
+      <workItem from="1601100965134" duration="171000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1601038292586</created>
@@ -102,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601040006370</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="...">
+      <created>1601041046061</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601041046061</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,27 +127,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
     <MESSAGE value="Code iG" />
     <MESSAGE value="Code Again" />
     <MESSAGE value="Redid depicted code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Redid depicted code" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="42" key="#Inspections" timestamp="1601039351426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1601039351426" />
-    <state x="301" y="0" key="CommitChangelistDialog2" timestamp="1601040005174">
+    <state x="301" y="0" key="CommitChangelistDialog2" timestamp="1601041044939">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="301" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601040005174" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1601040016910">
+    <state x="301" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601041044939" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1601041052796">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601040016910" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601041052796" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601040691164">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
